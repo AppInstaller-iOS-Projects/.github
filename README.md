@@ -5,7 +5,6 @@
    <p>
       Welcome To AI Projects
       <br />
-      <b>https://twitter.com/AppInstalleriOS</b>
    </p>
 </div>
 
